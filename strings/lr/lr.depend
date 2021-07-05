@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618814289 source:c:\users\tahse\desktop\strings\lr\main.cpp
+	<iostream>
+	<string.h>
+
