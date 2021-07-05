@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622567310 source:c:\users\tahse\desktop\tallent battle\maxelement\main.c
+	<stdio.h>
+	<stdlib.h>
+
